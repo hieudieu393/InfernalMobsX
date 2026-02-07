@@ -1,11 +1,16 @@
 # README #
 
-This is the Infernal Mobs source code. 
+# InfernalMobsX
+A minimal fork of the original InfernalMobs.
 
-Released under the License: (CC BY-NC-SA 2.5 CA)
-https://creativecommons.org/licenses/by-nc-sa/2.5/ca/
+## Goals
+- Update to the latest Minecraft version  
+- Fix bugs  
+- Improve performance
 
-You can use it for private purposes or for non-commercial purposes if you give the author credit.
-You MUST also link your changed source.
+## License
+Original license: CC BY-NC-SA 2.5 CA — https://creativecommons.org/licenses/by-nc-sa/2.5/ca/  
+You must keep attribution and share changes under the same license.
 
-Thank you.
+## Attribution
+Original Infernal Mobs — original author (retain credit). License: CC BY-NC-SA 2.5 CA.
